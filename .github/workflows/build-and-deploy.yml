@@ -25,3 +25,4 @@ jobs:
         TOKEN: ${{ secrets.TOKEN }}
         HUGO_ARGS: '-t academic'
         CNAME: www.jafy.eu
+        HUGO_EXTENDED: true
