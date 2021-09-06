@@ -5,7 +5,7 @@
 
 title: Academic # Website name
 baseurl: 'https://jfy133.github.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 James A. Fellows Yates' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
