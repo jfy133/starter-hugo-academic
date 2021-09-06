@@ -7,23 +7,23 @@
 
 theme: minimal
 day_night: true
-font: ''
-font_size: L
+font: 'Rose'
+font_size: m
 
 # SEO
 
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'Bioinformatician'
+twitter: 'jfy133'
 
 # Contact (edit or remove options as required)
 
 email: jfy133@gmail.com
 address:
   ##street: 450 Serra Mall
-  ##city: Stanford
+  city: Leipzig
   ##region: CA
   ##postcode: '94305'
   country: Germany
@@ -41,10 +41,15 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/jfy133'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
     link: 'skype:jfy133?call'
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    link: 'https://github.com/jfy133'
+  - icon: envelope
+    icon_pack: fas
+    name: Email
+    link: 'mail:jfy133@gmail.com'
 
 # Site header
 
@@ -59,9 +64,9 @@ main_menu:
 
 # Localization
 
-date_format: '2006-12-02'
+date_format: 'January 2, 2006'
 time_format: '15:04'
-address_format: en-gb
+address_format: de
 
 # Site features
 
