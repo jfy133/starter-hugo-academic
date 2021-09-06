@@ -86,7 +86,7 @@ gg + facet_grid(Period ~ .)
 
 And you will get something like the following output (following some resizing of the window):
 
-![Example time series map from R and ggplot2](/images/2017-05-28_2.png)
+![Example time series map from R and ggplot2](/uploads/uploads/images/2017-05-28_2.png)
 
 Once you've got the image you like, you can then save in a variety of formats by adding the R functions `svg("my_map.svg", width=5, height=10)` or `png("my_map.png", width=50, height=100)` prior the final command and putting `dev.off()` after the last command. The image should then be saved in your 'working directory' set at the beginning.
 

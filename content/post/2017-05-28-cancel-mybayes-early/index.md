@@ -21,7 +21,7 @@ This post will give a quick step by step guide with additional notes on how to c
 
 3) To the end of every ‘.t’ file, in a text editor or with the command line, append to a new line without an indentation the following:
 
-![Finishing the block](/images/2017-05-28_1.png)
+![Finishing the block](/uploads/uploads/images/2017-05-28_1.png)
 
 **Note**: If you want to ‘round off’ your number of steps in your chain, make sure you have the same numbers of entries in both .t and .p files. E.g. if you had already reached stability by 40,000,000 steps but you finished 40,000,125 - in all files delete lines below 40,000,000 and add ‘end;’ in the tree files.
 
