@@ -39,11 +39,11 @@ reconstructed mtGenomes.
 For the reference sequence you should also add the tag `[acc=NC_007596.2]`.
 # Using Sequin
 5. Next we can start `Sequin`, select 'NCBI GenBank' and 'Start new submission'.
- ![Load Sequin](/uploads/uploads/images/1-load_sequin.png)
+ ![Load Sequin](/uploads/images/1-load_sequin.png)
 6. Set the release date of the data (for example if you want to release on the same day as your paper is published - note you can update this later) and add a tentative title for the study.
- ![Submission Information](/uploads/uploads/images/2-submission_info_1.png)
+ ![Submission Information](/uploads/images/2-submission_info_1.png)
 7. Set you name, phone and email (fax can be skipped).
- ![Submission Information](/uploads/uploads/images/3-submission_info_2.png)
+ ![Submission Information](/uploads/images/3-submission_info_2.png)
 8. Enter the names of the authors of the study.
  ![Submission Information](/uploads/images/4-submission_info_3.png)
 9. Enter the submitting institution address (fax can be skipped).

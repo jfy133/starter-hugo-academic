@@ -18,4 +18,4 @@ This tutorial is released under the open CC-BY-SA 4 license and can be viewed by
 I am updating the tutorial as requests come in for different modifications, so please check back regularly or leave an issue on the github repository with requests.
 
 
-![Example Result](tidy-popgen-pca-example.png)
+![Example Result](/uploads/images/tidy-popgen-pca-example.png)
