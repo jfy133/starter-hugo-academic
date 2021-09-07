@@ -73,7 +73,7 @@ email: "jfy133@gmail.com"
 highlight_name: false
 ---
 
-🛠 Note: this is a new website, and still in the process of being transferred! 🛠
+🛠 Note: this is a new website, and is still in the process of being transferred! 🛠
 
 I am a biomolecular archaeologist and bioinformatician carrying out [my Ph.D.](http://www.shh.mpg.de/employees/45083/25522) on [ancient oral microbiomes](http://www.shh.mpg.de/348251/Evolution-and-Ecology-of-the-Human-Oral-Microbiome) in the [Department of Archaeogenetics](http://www.shh.mpg.de/28671/research_outline) at the [Max Planck Institute for the Science of Human History](http://www.shh.mpg.de/en).
 

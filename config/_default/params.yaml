@@ -41,7 +41,6 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/jfy133'
-    link: 'skype:jfy133?call'
   - icon: github
     icon_pack: fab
     name: GitHub
