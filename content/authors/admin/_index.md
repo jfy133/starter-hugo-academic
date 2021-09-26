@@ -73,8 +73,6 @@ email: "jfy133@gmail.com"
 highlight_name: false
 ---
 
-🛠 Note: this is a new website, and is still in the process of being transferred! 🛠
-
 I am a biomolecular archaeologist and bioinformatician. I currently work between the Department of [Palaeobiotechnology](https://www.leibniz-hki.de/en/paleobiotechnology.html) at the Leibniz Institute for Natural Product Research and Infection Biology Hans Knöll Institute and [Max Planck Institute for Evolutionary Anthropology](https://www.eva.mpg.de), while finishing up my [my Ph.D.](http://www.shh.mpg.de/employees/45083/25522) on [ancient oral microbiomes](http://www.shh.mpg.de/348251/Evolution-and-Ecology-of-the-Human-Oral-Microbiome) .
 
 I originally trained as an Archaeologist at the University of York, where I specialised in palaeoproteomics. After which I moved to the Universität Tübingen to study for an M.Sc. in Archaeological Sciences, specialising in palaeogenetics. During my time in Tübingen I also worked as a technician for a stable isotope lab. I worked for a short period for the [Institut für Vor- und Frühgeschichtliche Archäologie and Provinzialrömische Archäologie](https://www.vfp-archaeologie.uni-muenchen.de/ueber_uns/index.html) at LMU München, developing strategies for authenticating ancient dietary DNA.
